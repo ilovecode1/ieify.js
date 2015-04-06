@@ -11,3 +11,7 @@
 <script src="path/to/ieify.js"></script>
 <![endif]-->
 ```
+
+#Warnings
+
+IEify is not very light but, it makes IE work EXACTLY (%100) like any other browser and work with HTML5 (IE 6+)!
