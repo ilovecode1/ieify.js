@@ -14,4 +14,4 @@
 
 #Warnings
 
-IEify is not very light but, it makes IE work EXACTLY (%100) like any other browser and work with HTML5 (IE 6+)!
+IEify is not very light but, it makes IE work EXACTLY (%100) like any other browser and work with HTML5 and CSS3 and other stuff (IE 6+)!
