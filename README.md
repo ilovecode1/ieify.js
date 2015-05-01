@@ -8,7 +8,8 @@
 <!--[if IE 9 ]>    <html class="ie9" lang="en"> <![endif]-->
 <!--[if (gt IE 9)|!(IE)]><!--> <html lang="en"> <!--<![endif]-->
 <!--[if IE]>
-<script src="path/to/ieify.js"></script>
+<script src="https://cdn.rawgit.com/ilovecode1/ieify.js/master/ieify.min.js
+"></script>
 <![endif]-->
 ```
 
